@@ -1,3 +1,3 @@
-# Pipelines do Sklear
+# Pipelines do Sklearn
 
-Repositório com notebook de treinamento dos pipelines do Sklearn.
+Repositório com notebooks de exemplos dos pipelines do Sklearn.
