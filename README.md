@@ -17,4 +17,4 @@ Uma parte das ideias são provindas das reuniões que tivemos do Grupo de Estudo
 - @tauamagalhaes 
 - @carolinezago_ 
 - @lamartine_sl
-- E mais, que não achei o Github 
+- E mais
